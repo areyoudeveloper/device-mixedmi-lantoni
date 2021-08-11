@@ -19,4 +19,4 @@
 | Release Date            | Aug 2021                          |
 
 ## Device Pictures
-(https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3s2.jpg)
+![R3XP](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3s2.jpg "R3XP")
